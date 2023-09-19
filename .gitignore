@@ -1,4 +1,4 @@
 *.csv
 !ZipCodes.csv
-!Neigbourhoods.csv
+!Neighbourhoods.csv
 !Boroughs.csv

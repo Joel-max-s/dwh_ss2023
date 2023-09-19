@@ -1,0 +1,44 @@
+NeighbourhoodID,Neighbourhood,BoroughID
+0,Kingsbridge - Riverdale,0
+1,Northeast Bronx,0
+2,Fordham - Bronx Park,0
+3,Pelham - Throgs Neck,0
+4,Crotona - Tremont,0
+5,High Bridge - Morrisania,0
+6,Hunts Point - Mott Haven,0
+7,Greenpoint,1
+8,Downtown - Heights - Park Slope,1
+9,Bedford Stuyvesant - Crown Heights,1
+10,East New York,1
+11,Sunset Park,1
+12,Borough Park,1
+13,East Flatbush - Flatbush,1
+14,Canarsie - Flatlands,1
+15,Bensonhurst - Bay Ridge,1
+16,Coney Island - Sheepshead Bay,1
+17,Williamsburg - Bushwick,1
+18,Washington Heights - Inwood,2
+19,Central Harlem - Morningside Heights,2
+20,East Harlem,2
+21,Upper West Side,2
+22,Upper East Side,2
+23,Chelsea - Clinton,2
+24,Gramercy Park - Murray Hill,2
+25,Greenwich Village - SoHo,2
+26,Union Square - Lower East Side,2
+27,Lower Manhattan,2
+28,Long Island City - Astoria,3
+29,West Queens,3
+30,Flushing - Clearview,3
+31,Bayside - Little Neck,3
+32,Ridgewood - Forest Hills,3
+33,Fresh Meadows,3
+34,Southwest Queens,3
+35,Jamaica,3
+36,Southeast Queens,3
+37,Rockaway,3
+38,Port Richmond,4
+39,Stapleton - St. George ,4
+40,Willowbrook,4
+41,South Beach - Tottenville,4
+99999,Unknown,99999
